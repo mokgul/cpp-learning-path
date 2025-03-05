@@ -1,0 +1,3 @@
+/home/mokgul/Coding/cpp-learning-path/01.CPP - Basics/cmake-build-debug/CMakeFiles/01_CPP___Basics.dir
+/home/mokgul/Coding/cpp-learning-path/01.CPP - Basics/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mokgul/Coding/cpp-learning-path/01.CPP - Basics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
